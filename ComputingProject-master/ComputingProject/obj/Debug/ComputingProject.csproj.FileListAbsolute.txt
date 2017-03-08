@@ -1,0 +1,12 @@
+C:\Users\saycm01\Desktop\ComputingProject\ComputingProject\ComputingProject\bin\Debug\ComputingProject.exe.config
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\bin\Debug\ComputingProject.exe.config
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\bin\Debug\MainDB.mdf
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\bin\Debug\MainDB_log.ldf
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\bin\Debug\ComputingProject.exe
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\bin\Debug\ComputingProject.pdb
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.csprojResolveAssemblyReference.cache
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.Form1.resources
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.Properties.Resources.resources
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.csproj.GenerateResource.Cache
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.exe
+C:\Users\saycm01\Desktop\ComputingProject-master\ComputingProject\obj\Debug\ComputingProject.pdb
